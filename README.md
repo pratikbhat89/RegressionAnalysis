@@ -7,6 +7,7 @@ to predict the diabetes level of patients using the input features. We had to re
 best technique in the given environment.
 
 We implemented the following different techniques:
+
 1. Linear Regression
 2. Ridge Regression
 3. Ridge Regression using Gradient Descent
@@ -15,6 +16,7 @@ We implemented the following different techniques:
 Please refer the last page of report (5.Final Recommendation) for quick understanding.
 
 ---------------------Content of Code Folder-----------------------
+
 1. script.m
 2. learnOLERegression.m
 3. learnRidgeRegression.m
@@ -23,6 +25,7 @@ Please refer the last page of report (5.Final Recommendation) for quick understa
 
 
 ---------------------Content of Report Folder-------------------------
+
 1. Report.pdf
 
 #Note:
